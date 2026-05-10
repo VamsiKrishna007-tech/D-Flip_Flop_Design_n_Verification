@@ -22,6 +22,7 @@ task main();
 	trans.display("GEN");
 	@(sconext);            // wait till scoreboard completes its process
 	end
+-> done;
 endtask
 
 endclass
